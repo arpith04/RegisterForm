@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RegisterForm/static/css/main.3d130a69.css",
+    "main.js": "/RegisterForm/static/js/main.16cc18cc.js",
+    "index.html": "/RegisterForm/index.html",
+    "main.3d130a69.css.map": "/RegisterForm/static/css/main.3d130a69.css.map",
+    "main.16cc18cc.js.map": "/RegisterForm/static/js/main.16cc18cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d130a69.css",
+    "static/js/main.16cc18cc.js"
+  ]
+}
